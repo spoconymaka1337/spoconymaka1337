@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**spoconymaka1337/spoconymaka1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maka** and I'm  just a chill guy tbh.
 
-Here are some ideas to get you started:
+🐍 Python · 🗄️ SQL  · ☕ Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like working with data, building small projects, and learning new things.
+
+### 🚀 What I'm up to
+- 📊 Exploring datasets
+- 🐍 Building things with Python
+- 🗄️ Writing SQL queries
+- 🤖 Learning more about Machine Learning
+- ☕ Occasionally touching Java when I feel like developing some plugins for minecraft
+
+### ⚡ Fun facts
+- 🧠 Always curious about how things work
+- 🎮 Gaming is my way of chilling
+- 🔌 Sometimes I fix broken electronics cuz I'm great with that stuff too
